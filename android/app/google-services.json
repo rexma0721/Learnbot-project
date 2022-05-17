@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153109414280",
+    "firebase_url": "https://learnbot-f9127.firebaseio.com",
+    "project_id": "learnbot-f9127",
+    "storage_bucket": "learnbot-f9127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153109414280:android:7834e4b3c5d4cff421fa3d",
+        "android_client_info": {
+          "package_name": "com.education.leanrbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153109414280-97ccv4ki4q8mhn8jaru876lfprktj1br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKBaJsOtPIqPVkKWt_KhxJLE2V_MkbpeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153109414280-97ccv4ki4q8mhn8jaru876lfprktj1br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
